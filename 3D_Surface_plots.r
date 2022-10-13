@@ -1,7 +1,5 @@
 library(rstudioapi)
 library(raster)
-library(sp)
-library(rasterVis)
 library(plotly)
 
 #######################################
